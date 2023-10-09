@@ -1,5 +1,3 @@
-_This issue was created automatically by script. For the detail, please see [here](https://github.com/orgs/aquaproj/discussions/2312)._
-
 Hi, thank you for your great project!
 
 We suggest to add the installation guide with aqua to the document.
@@ -29,3 +27,5 @@ aqua g -i <package> # Add <package> to aqua.yaml
 ---
 
 Thank you.
+
+_This issue was created automatically by script. For the detail, please see [here](https://github.com/orgs/aquaproj/discussions/2312#discussioncomment-7225546)._

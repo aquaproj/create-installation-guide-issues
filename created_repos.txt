@@ -1,3 +1,7 @@
 suzuki-shunsuke/circleci-config-merge
 suzuki-shunsuke/ci-info
 suzuki-shunsuke/cmdx
+corrupt952/closest
+ponkio-o/ec2x
+DelineaXPM/dsv-cli
+budimanjojo/talhelper
