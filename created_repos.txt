@@ -27,3 +27,15 @@ k1LoW/ndiag
 k1LoW/octocov
 k1LoW/stubin
 k1LoW/tbls
+Songmu/gh2changelog
+Songmu/ghch
+Songmu/ghg
+Songmu/gitsemvers
+Songmu/gocredits
+Songmu/godzil
+Songmu/gotesplit
+Songmu/goxz
+Songmu/horenso
+Songmu/maltmill
+Songmu/tagpr
+Songmu/timeout
