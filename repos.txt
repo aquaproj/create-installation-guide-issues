@@ -1,3 +1,14 @@
-suzuki-shunsuke/ci-info
-suzuki-shunsuke/circleci-config-merge
-suzuki-shunsuke/cmdx
+siderolabs/conform
+siderolabs/talos
+siderolabs/theila
+takumin/gjson
+takumin/gyaml
+ryoppippi/zigchat
+hirosassa/ksnotify
+hirosassa/tfcmt-gitlab
+k1LoW/runn
+kayac/ecspresso
+Songmu/ecschedule
+fujiwara/lambroll
+goccy/bigquery-emulator
+int128/kauthproxy
